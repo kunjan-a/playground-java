@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="file://$PROJECT_DIR$/lib/apache http client 4.5.3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/async-1.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3-mybatis-3.4.4.zip!/mybatis-3-mybatis-3.4.4/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3-mybatis-3.4.4.zip!/mybatis-3-mybatis-3.4.4/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/httpcore-4.4.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/httpclient-4.5.3-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/apache http client 4.5.3" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
